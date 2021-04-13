@@ -1,0 +1,13 @@
+C:\Users\Michal\source\repos\ESI\ESI\bin\Debug\netcoreapp3.0\ESI.exe
+C:\Users\Michal\source\repos\ESI\ESI\bin\Debug\netcoreapp3.0\ESI.deps.json
+C:\Users\Michal\source\repos\ESI\ESI\bin\Debug\netcoreapp3.0\ESI.runtimeconfig.json
+C:\Users\Michal\source\repos\ESI\ESI\bin\Debug\netcoreapp3.0\ESI.runtimeconfig.dev.json
+C:\Users\Michal\source\repos\ESI\ESI\bin\Debug\netcoreapp3.0\ESI.dll
+C:\Users\Michal\source\repos\ESI\ESI\bin\Debug\netcoreapp3.0\ESI.pdb
+C:\Users\Michal\source\repos\ESI\ESI\obj\Debug\netcoreapp3.0\ESI.csprojAssemblyReference.cache
+C:\Users\Michal\source\repos\ESI\ESI\obj\Debug\netcoreapp3.0\ESI.AssemblyInfoInputs.cache
+C:\Users\Michal\source\repos\ESI\ESI\obj\Debug\netcoreapp3.0\ESI.AssemblyInfo.cs
+C:\Users\Michal\source\repos\ESI\ESI\obj\Debug\netcoreapp3.0\ESI.csproj.CoreCompileInputs.cache
+C:\Users\Michal\source\repos\ESI\ESI\obj\Debug\netcoreapp3.0\ESI.dll
+C:\Users\Michal\source\repos\ESI\ESI\obj\Debug\netcoreapp3.0\ESI.pdb
+C:\Users\Michal\source\repos\ESI\ESI\obj\Debug\netcoreapp3.0\ESI.genruntimeconfig.cache
